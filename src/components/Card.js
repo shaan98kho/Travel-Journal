@@ -20,7 +20,6 @@ export default function Card(props) {
                 </div>
                 <div className='card-details--description'>
                     <p>{props.item.description}</p>
-                    <p> beep</p>
 
                 </div>
 
